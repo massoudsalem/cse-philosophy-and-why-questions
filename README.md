@@ -9,6 +9,7 @@ As an undergraduate, I was always wondering "why" in computer science. Why are l
 This repository collects resources illuminating the "why" of software and systems. I hope it fosters new ways of seeing for future engineers."CSE Philosophy and Why Questions" gathers courses, books, papers and talks from experts. It aims to expand horizons on fundamental questions like:Why this approach? What principles drive design choices? How can new perspectives transform old problems?Question assumptions. Envision new possibilities. Find purpose and grow as thinkers, builders and members of this craft.Discover truth. Build meaning. Thrive in purpose.Together, let's spark contemplation and cultivate growth. Deepen discussions shaping technology and its role in the world.Inspire reflection. Find meaning in challenges faced and truths unveiled.Thrive as engineers. See with fresh eyes. Understand anew.
 
 ---
+Before going further, if you are Muslim you have to read this first: [PDF](./scientism.pdf) if you are not Muslim you need to search for scientism and its problems.
 #### **Here is a table contains courses and books on the philosophy behind software engineering, programming languages, and computer science in general.**
 ---
 |Field|Type|Title|Author|Link|Description|More Details|
